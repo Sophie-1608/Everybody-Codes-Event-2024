@@ -1,5 +1,5 @@
 import java.io.*;
-public class ResponseQuest1{
+public class ResponseQuest1P1{
     public static int nombreDePotions(File file)throws IOException{
         FileReader fr = new FileReader(file);
         BufferedReader br = new BufferedReader(fr);
