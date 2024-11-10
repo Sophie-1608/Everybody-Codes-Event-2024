@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class ResponseQuest2{
+public class ResponseQuest1P1{
     public static int calculPotions(char ch){
         if(ch == 'A') return 1;
         else if(ch == 'B') return 2;
